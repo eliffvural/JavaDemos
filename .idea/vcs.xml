@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/abstractClasses" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/abstractDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/classesWithAttributes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exceptionHandling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritanceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interfaceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interfaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interfaces/JavaDemos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methodOverloading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/overriding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/polymorphismDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/readingFileDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/staticDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/throwDemo" vcs="Git" />
+  </component>
+</project>
