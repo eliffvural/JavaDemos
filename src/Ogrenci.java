@@ -14,6 +14,6 @@ public class Ogrenci {
     }
 
     public void bilgileriGoster(){
-        System.out.println("Ogrenci no: "+ogrNo+""+"Ogrenci isim: "+isim+""+"Fakulte adi: "+fakulteAdi);
+        System.out.println("Ogrenci No: "+ogrNo+""+"Ogrenci isim: "+isim+""+"Fakulte adi: "+fakulteAdi);
     }
 }
